@@ -27,6 +27,7 @@ The project follows the CRISP-DM methodology, which includes the following phase
    python train_model.py
    ```
 3. Evaluate the model's performance and make predictions.
+   
 ## Technologies Used
 - Python
 - Pandas
